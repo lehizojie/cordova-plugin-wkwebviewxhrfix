@@ -18,8 +18,8 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 
-		<header-file src="src/ios/CDVWKWebViewEngine+FileXhrFix.h" />
-		<source-file src="src/ios/CDVWKWebViewEngine+FileXhrFix.m" />
+		<header-file src="src/ios/CDVWebViewEngine+FileXhrFix.h" />
+		<source-file src="src/ios/CDVWebViewEngine+FileXhrFix.m" />
 
 	</platform>
 </plugin>
